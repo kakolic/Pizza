@@ -1,2 +1,1 @@
-# Pizza
-thinkful Pizza
+# pizza
